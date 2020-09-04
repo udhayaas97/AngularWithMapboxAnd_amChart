@@ -1,0 +1,37 @@
+#main {
+  background-color: rgb(44, 28, 53);
+}
+
+.innerbox {
+  color: white;
+  background-color: rgb(71, 54, 88);
+  text-align: center;
+  border-radius: 5px;
+  border-color: rgb(44, 28, 53);
+  margin: 5px;
+}
+
+.ps_15 {
+  font-size: 15px;
+}
+
+.counts {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+#map {
+  padding-bottom: 20px;
+  padding-left: 0px;
+}
+
+#map p {
+  margin-bottom: 0px;
+}
+
+#mapinner {
+  border-radius: 5px;
+  margin: 5px;
+  width: 101%;
+  height: 80%;
+}
